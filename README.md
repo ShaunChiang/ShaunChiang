@@ -1,4 +1,17 @@
-### Hi there 👋
+# Nice to meet you! 👋
+### I'm Shaun, a 3rd year CS student at the University of California, Irvine.
+
+#### -Why Computer Science?
+To me, computer programs are like Legos, except much better.  
+With code, you can create, borrow, and build whatever you want.  
+Plus, code isn't material, so it doesn't even hurt when you step on it! <s>Until you find a bug 😬</s>
+
+#### -Courses I'm currently taking at UCI
+CS 141: Programming Languages  
+CS 161: Design and Analysis of Algorithms
+
+#### -Let's connect!
+[**LinkedIn**](https://www.linkedin.com/in/shaun-chiang/)
 
 <!--
 **ShaunChiang/ShaunChiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
