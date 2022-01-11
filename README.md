@@ -4,7 +4,7 @@
 #### -Why Computer Science?
 To me, computer programs are like Legos, except much better.  
 With code, you can create, borrow, and build whatever you want.  
-Plus, code isn't material, so it doesn't even hurt when you step on it! <s>Until you find a bug 😬</s>
+Plus, code isn't material, so it doesn't even hurt when you step on it! [<s>Until you find a bug 😬</s>](https://i.kym-cdn.com/photos/images/newsfeed/000/359/434/5e5.jpg)
 
 #### -Courses I'm currently taking at UCI
 CS 141: Programming Languages  
