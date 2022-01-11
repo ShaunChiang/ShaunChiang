@@ -12,7 +12,7 @@ CS 161: Design and Analysis of Algorithms
 
 #### -Let's connect!
 [**LinkedIn**](https://www.linkedin.com/in/shaun-chiang/)
-
+[**Email**](mailto:shaunaustin123@gmail.com)
 <!--
 **ShaunChiang/ShaunChiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
